@@ -1,3 +1,4 @@
+![TRIPPY - HASEED CLUB](https://user-images.githubusercontent.com/100062048/155755793-d15f76a3-5564-4de4-aefb-b194477e2ba6.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
